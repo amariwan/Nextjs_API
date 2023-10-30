@@ -10,7 +10,7 @@
     "lint": "next lint",
     "cypress:open": "cypress open",
     "cypress:run": "cypress run",
-    "deploy": "next build && next export && touch out/.nojekyll && gh-pages -d out",
+    "deploy": "gh-pages -d build",
     "predeploy": "npm run build"
   },
   "dependencies": {
