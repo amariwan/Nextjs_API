@@ -1,8 +1,8 @@
 {
+  "homepage": "https://amariwan.github.io/Nextjs_API",
   "name": "starwars",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://amariwan.github.io/Next_API",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
